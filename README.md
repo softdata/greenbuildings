@@ -32,7 +32,7 @@ Found]
 
 ## Augmented Reality Application
 
-[Workflow Automation](/doctree/workflow_automation)
+[Workflow Automation](/doctree/workflow_automation.md)
 
 
 
