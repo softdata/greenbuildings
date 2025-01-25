@@ -30,6 +30,15 @@ Found]
 
 - Digital Twins
 
+## Augmented Reality Application
+
+[Workflow Automation](/doctree/workflow_automation)
+
+
+
+
+
+
 
 
 
