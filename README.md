@@ -6,7 +6,7 @@ Materials, Data (resources) ==> Value
 
 Integrate, Implement Emerging Technologies
 
-
+Careers: 架构师；运营官；经理人
 
 ## Production & Manufacturing
 
