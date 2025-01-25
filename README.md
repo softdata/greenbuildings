@@ -2,11 +2,13 @@
 
 绿色建筑：行业发展趋势
 
+Careers: 架构师；运营官；经理人
+
 Materials, Data (resources) ==> Value
 
 Integrate, Implement Emerging Technologies
 
-Careers: 架构师；运营官；经理人
+
 
 ## Production & Manufacturing
 
