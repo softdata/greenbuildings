@@ -2,11 +2,13 @@
 
 绿色建筑：行业发展趋势
 
+Materials, Data (resources) ==> Value
+
+Integrate, Implement Emerging Technologies
+
+
+
 ## Production & Manufacturing
-
-- Smart manufacturing 现代制造业
-
-- Advanced manufacturing 先进制造 智能制造
 
 [Create |
 Build |
@@ -16,9 +18,12 @@ Source |
 Trade |
 Found]
 
-Materials, Data (resources) ==> Value
+- Smart manufacturing 现代制造业
 
-- AI场景AR应用 
+- Advanced manufacturing 先进制造 智能制造
 
-Integrate, Implement Emerging Technologies
+- AI场景AR应用
+
+
+
 
