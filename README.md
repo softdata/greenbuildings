@@ -2,7 +2,7 @@
 
 绿色建筑：行业发展趋势
 
-Careers: 架构师；运营官；经理人
+Careers: 运营官；架构师；经理人
 
 Materials, Data (resources) ==> Value
 
