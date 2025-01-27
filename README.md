@@ -10,6 +10,8 @@ Integrate, Implement Emerging Technologies
 
 ## All in Business
 
+Entrepreneurial Management
+
 [The Five Stages of Small-Business Growth](https://hbr.org/1983/05/the-five-stages-of-small-business-growth)
 
 
