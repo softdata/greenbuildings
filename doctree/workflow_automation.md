@@ -13,3 +13,6 @@ Build human-machine partnerships that enhance value creation and employee engage
 Robotic Process Automation (RPA)
 
 RPA Implementation Case Studies in Accounting
+
+Restaurant Order Workflows
+![](https://github.com/softdata/atasteofmemory/blob/asset/restaurant_order_workflows.png)
