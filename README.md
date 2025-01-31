@@ -14,6 +14,12 @@ Integrate, Implement Emerging Technologies
 
 [The Five Stages of Small-Business Growth](https://hbr.org/1983/05/the-five-stages-of-small-business-growth)
 
+[保罗·格雷厄姆：如何开始创业？](https://36kr.com/p/3116167903727617)
+
+”**灵光一现的创意是很难复制的，但是避免错误却总是可能的**”
+
+
+
 - Marketing Management
 
 - Project Management
